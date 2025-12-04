@@ -10,6 +10,9 @@ I turn coffee ☕ into code and ideas 💡 into reality — e.g., Frontend Engin
 ---
 
 ## 🌟 About Me
+I'm study in King Mongkut's University of Technology North Bangkok 
+Faculty : Applied Science 
+Major : Mathematics with Computer Science
 
 A curious and creative aspiring web developer passionate about building engaging front-end experiences.  
 I love experimenting with new technologies and bringing ideas to life through clean, interactive designs.
