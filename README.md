@@ -35,5 +35,6 @@ My goal is to become a skilled front-end developer who creates websites that are
 | 📸 **Instagram** | [\_its\_me.markus](https://instagram.com/_its_me.markus) |
 | 📘 **Facebook** | [facebook.com/markus.gegenwart](https://facebook.com/markus.gegenwart) |
 | 💬 **LINE** | @markus.ge2003 |
+| 📱 **TEL** | 092-261-5482 |
 
 ---
