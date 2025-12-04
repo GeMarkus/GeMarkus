@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm **Markus** 👋
 
-<!--
-**GeMarkus/GeMarkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔓 *Open to opportunities*
 
-Here are some ideas to get you started:
+I turn coffee ☕ into code and ideas 💡 into reality — e.g., Frontend Engineer crafting fast, accessible web experiences with **React**, **TypeScript**, and delightful micro-interactions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Quick Links
+[🔵 See Projects](#)  [📩 Contact](#)  [💼 Experience](#)
+
+---
+
+## 🌟 About Me
+
+A curious and creative aspiring web developer passionate about building engaging front-end experiences.  
+I love experimenting with new technologies and bringing ideas to life through clean, interactive designs.
+
+When I’m not coding, I enjoy exploring design trends, learning new skills, and working on fun side projects.
+
+My goal is to become a skilled front-end developer who creates websites that are both beautiful and user-friendly.
+
+---
+
+## 👤 Profile
+
+| | |
+|---|---|
+| ⏳ **Experience** | 4 years |
+| 📍 **Location** | Bangkok, Thailand · Remote-friendly |
+| 📸 **Instagram** | [\_its\_me.markus](https://instagram.com/_its_me.markus) |
+| 📘 **Facebook** | [facebook.com/markus.gegenwart](https://facebook.com/markus.gegenwart) |
+| 💬 **LINE** | @markus.ge2003 |
+
+---
